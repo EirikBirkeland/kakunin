@@ -10,6 +10,7 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "chokidar": "^2.0.4"
+    "chokidar": "^2.0.4",
+    "node-watch": "^0.5.9"
   }
 }
